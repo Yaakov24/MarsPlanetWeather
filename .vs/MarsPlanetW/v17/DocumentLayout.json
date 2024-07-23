@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,39 +70,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-22T20:36:44.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-23T16:24:35.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T20:31:39.936Z",
               "EditorCaption": ""
@@ -129,8 +116,7 @@
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T20:51:30.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T20:51:30.724Z"
             },
             {
               "$type": "Document",
@@ -178,8 +164,7 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-22T20:25:46.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T20:25:46.803Z"
             },
             {
               "$type": "Document",
@@ -192,6 +177,18 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-22T20:51:31.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T16:24:35.365Z"
             },
             {
               "$type": "Document",
