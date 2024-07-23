@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ygold\\source\\repos\\MarsPlanetW\\MarsPlanetW.csproj",
+      "projectUniqueName": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\MarsPlanetW.csproj",
       "projectName": "MarsPlanetW",
-      "projectPath": "C:\\Users\\ygold\\source\\repos\\MarsPlanetW\\MarsPlanetW.csproj",
+      "projectPath": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\MarsPlanetW.csproj",
       "packagesPath": "C:\\Users\\ygold\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ygold\\source\\repos\\MarsPlanetW\\obj\\",
+      "outputPath": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ygold\\AppData\\Roaming\\NuGet\\NuGet.Config",
