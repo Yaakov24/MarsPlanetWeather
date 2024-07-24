@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,56 +74,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T20:36:44.243Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T20:31:39.936Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T16:10:07.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Error.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Error.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Error.cshtml.cs",
-              "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Error.cshtml.cs",
-              "RelativeToolTip": "Pages\\Error.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T20:51:30.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T20:51:30.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
@@ -131,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "Pages\\Error.cshtml",
@@ -139,11 +107,12 @@
               "RelativeToolTip": "Pages\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T20:51:30.425Z"
+              "WhenOpened": "2024-07-22T20:51:30.425Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Privacy.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Privacy.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Privacy.cshtml.cs",
@@ -155,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -167,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
@@ -175,11 +144,12 @@
               "RelativeToolTip": "Pages\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T20:51:31.05Z"
+              "WhenOpened": "2024-07-22T20:51:31.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -191,7 +161,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T20:36:44.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:31:39.936Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:51:30.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
@@ -199,7 +206,20 @@
               "RelativeToolTip": "Pages\\_ViewStart.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T20:51:31.155Z"
+              "WhenOpened": "2024-07-22T20:51:31.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:51:30.563Z"
             }
           ]
         }

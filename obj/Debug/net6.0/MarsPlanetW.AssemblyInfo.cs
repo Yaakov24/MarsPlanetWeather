@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarsPlanetW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+151c007f5f6f98801c345bd68e43244938d3b5ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56e3030527fb783863854561e11b4e639abbee61")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarsPlanetW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarsPlanetW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

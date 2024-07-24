@@ -1,89 +1,63 @@
-﻿@page 
-@model IndexModel 
+﻿@page
+@model MarsPlanetW.Pages.IndexModel
 
-<!DOCTYPE html> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mars Weather</title>
+    <style>
+        body {
+            background: url('/images/BF75C159-5472-46EF-ADE5-CE37A3585349.jpeg') no-repeat center center fixed;
+            background-size: cover;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 20%;
+        }
 
-<html lang="en"> 
+        .weather-container {
+            background: rgba(0, 0, 0, 0.5);
+            padding: 20px;
+            border-radius: 10px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div class="weather-container">
+        <h1>Latest Weather Data on Mars</h1>
+        <h3 id="terrestrial_date"></h3>
+        <p id="temp"></p>
+    </div>
 
-<head> 
+    <script>
+        function celsiusToFahrenheit(celsius) {
+            return (celsius * 9 / 5) + 32;
+        }
 
-    <meta charset="UTF-8" /> 
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            const month = date.getMonth() + 1; // Months are zero-indexed
+            const day = date.getDate();
+            const year = date.getFullYear();
+            return `${month}/${day}/${year}`;
+        }
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
-    <title>'Weather On Mars</title> 
+        async function getMarsWeather() {
+            const response = await fetch('https://api.maas2.apollorion.com/');
+            const data = await response.json();
 
-    <style> 
+            const minTempF = celsiusToFahrenheit(data.min_temp);
+            const maxTempF = celsiusToFahrenheit(data.max_temp);
+            const formattedDate = formatDate(data.terrestrial_date);
 
-        body {                     
- background: url('/images/BF75C159-5472-46EF-ADE5-CE37A3585349.jpeg') no-repeat center center fixed; 
- background-size: cover; 
- color: white; 
- display: flex; 
- justify-content: center; 
- align-items: center; 
- height: 100vh; 
- margin: 0; 
- font-family: Arial, sans-serif; 
-        } 
+            document.getElementById('terrestrial_date').textContent = `Date: ${formattedDate}`;
+            document.getElementById('temp').textContent = `Temperature: Min ${minTempF.toFixed(1)}°F, Max ${maxTempF.toFixed(1)}°F`;
+        }
 
-.weather-container { 
-
-            text- align: center; 
-            background: rgba(0, 0, 0, 0.5); 
-            padding: 20px; 
-            border-radius: 10px; 
-
-        }   
-
-.weather-container h1 { 
-
-      font-size: 50px; 
-      margin: 0; 
-
-  } 
-
-  
-
-  .weather-container p { 
-
-      font-size: 30px; 
-      margin: 10px 0 0 0; 
-
-  } 
-
-    </style> 
-
-</head> 
-
-<body> 
-
-    <div class="weather-container"> 
-
-        <h1>Latest Weather Data on Mars</h1> 
-        <h3 id="terrestrial_date"></h3> 
-        <p id="temp"></p> 
-
-    </div> 
-
-    <script> 
-
-        function celsiusToFahrenheit(celsius) { 
-
-            return (celsius * 9 / 5) + 32; 
-        } 
-
-        async function getMarsWeather() { 
-            const response = await fetch('https://api.maas2.apollorion.com/'); 
-            const data = await response.json(); 
-            const minTempF = celsiusToFahrenheit(data.min_temp); 
-            const maxTempF = celsiusToFahrenheit(data.max_temp); 
-            document.getElementById('terrestrial_date').textContent = `Date: ${data.terrestrial_date}`; 
-            document.getElementById('temp').textContent = `Temperature: Min ${minTempF.toFixed(1)}°F, Max ${maxTempF.toFixed(1)}°F`; 
-
-        } 
-        getMarsWeather(); 
-    </script> 
-
-</body> 
-
-</html> 
+        getMarsWeather();
+    </script>
+</body>
+</html>
