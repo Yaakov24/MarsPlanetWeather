@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5XVw9d9uWTpo/OuWB8Z+ApnzisJ0O7bLiQ6fqmFmD5FzYeat22r5wzXc7i2tggxs93kqLp2X51eZcxUH4JBOQw==",
+  "dgSpecHash": "ED9lyDcaNOeJQ4UnxoYeQFZ+r8AMpfJ41S7/Q3CJj8FfT2XY6HLK4Z2HtlN01vYiGg9W9gmKfFgP1mGDt/KW1w==",
   "success": true,
   "projectFilePath": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\MarsPlanetW.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ygold\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

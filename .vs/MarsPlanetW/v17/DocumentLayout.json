@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79D4AA00-E2AF-4AA6-9C44-986D6052AB99}|MarsPlanetW.csproj|c:\\users\\ygold\\onedrive\\desktop\\repos\\marsplanetw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,25 +74,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Privacy.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Privacy.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml.cs",
-              "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Privacy.cshtml.cs",
-              "RelativeToolTip": "Pages\\Privacy.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T20:51:30.947Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-22T20:36:44.243Z",
               "EditorCaption": ""
@@ -107,11 +95,12 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-22T20:25:46.803Z"
+              "WhenOpened": "2024-07-22T20:25:46.803Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
@@ -119,7 +108,8 @@
               "RelativeToolTip": "Pages\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T20:51:31.05Z"
+              "WhenOpened": "2024-07-22T20:51:31.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -131,7 +121,8 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-23T16:24:35.365Z"
+              "WhenOpened": "2024-07-23T16:24:35.365Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -143,23 +134,25 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T20:31:39.936Z"
+              "WhenOpened": "2024-07-22T20:31:39.936Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T20:51:30.724Z"
+              "WhenOpened": "2024-07-22T20:51:30.724Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -167,7 +160,8 @@
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T16:10:07.172Z"
+              "WhenOpened": "2024-07-24T16:10:07.172Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -179,11 +173,12 @@
               "RelativeToolTip": "Pages\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T20:51:30.845Z"
+              "WhenOpened": "2024-07-22T20:51:30.845Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "Pages\\Error.cshtml",
@@ -191,19 +186,34 @@
               "RelativeToolTip": "Pages\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T20:51:30.425Z"
+              "WhenOpened": "2024-07-22T20:51:30.425Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:51:30.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
               "ToolTip": "C:\\Users\\ygold\\OneDrive\\Desktop\\repos\\MarsPlanetW\\Pages\\_ViewStart.cshtml",
               "RelativeToolTip": "Pages\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T20:51:31.155Z"
+              "WhenOpened": "2024-07-22T20:51:31.155Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -215,7 +225,8 @@
               "RelativeToolTip": "Pages\\Error.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T20:51:30.563Z"
+              "WhenOpened": "2024-07-22T20:51:30.563Z",
+              "EditorCaption": ""
             }
           ]
         }

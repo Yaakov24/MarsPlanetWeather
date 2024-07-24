@@ -59,3 +59,6 @@ C:\Users\ygold\OneDrive\Desktop\repos\MarsPlanetW\obj\Debug\net6.0\refint\MarsPl
 C:\Users\ygold\OneDrive\Desktop\repos\MarsPlanetW\obj\Debug\net6.0\MarsPlanetW.pdb
 C:\Users\ygold\OneDrive\Desktop\repos\MarsPlanetW\obj\Debug\net6.0\MarsPlanetW.genruntimeconfig.cache
 C:\Users\ygold\OneDrive\Desktop\repos\MarsPlanetW\obj\Debug\net6.0\ref\MarsPlanetW.dll
+C:\Users\ygold\OneDrive\Desktop\repos\MarsPlanetW\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ygold\OneDrive\Desktop\repos\MarsPlanetW\obj\Debug\net6.0\MarsPlanetW.csproj.AssemblyReference.cache
+C:\Users\ygold\OneDrive\Desktop\repos\MarsPlanetW\obj\Debug\net6.0\MarsPlan.5452ED8F.Up2Date
